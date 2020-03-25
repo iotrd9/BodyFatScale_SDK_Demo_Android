@@ -62,7 +62,7 @@ repositories {
 
 >  6.0及以上系统必须要定位权限，且需要手动获取权限
 
-## 三、初始化
+## 三、初始化 11
 
 你可以直接让你自己的`Activity`类继承`BleProfileServiceReadyActivity`
 
